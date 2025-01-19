@@ -54,3 +54,8 @@ print(bitwise_or)
 print(bitwise_xor)
 print(is_in_list)
 print(is_in_dict)
+#data structures
+print(f"MY LIST IS {my_list}")
+print(f"MY TUPLE IS {my_tuple}")
+print(f"MY SET IS {my_set}")
+print(f"MY DICTIONARY IS {my_dict}")
